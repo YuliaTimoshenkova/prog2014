@@ -1,0 +1,26 @@
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\bin\Debug\photo.exe
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\bin\Debug\photo.pdb
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.Form1.resources
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.Properties.Resources.resources
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.csproj.GenerateResource.Cache
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.exe.licenses
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.exe
+C:\Users\Bumbarash\AppData\Local\Temporary Projects\photo\obj\x86\Debug\photo.pdb
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.exe
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.pdb
+D:\Open_Rus\Код\photo\photo\photo\bin\Debug\photo.exe
+D:\Open_Rus\Код\photo\photo\photo\bin\Debug\photo.pdb
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.Form1.resources
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.Properties.Resources.resources
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.csproj.GenerateResource.Cache
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.exe.licenses
+D:\Open_Rus\Код\photo\photo\photo\obj\x86\Debug\photo.csprojResolveAssemblyReference.cache
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.exe
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.pdb
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.csprojResolveAssemblyReference.cache
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.Form1.resources
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.Properties.Resources.resources
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.csproj.GenerateResource.Cache
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\obj\x86\Debug\photo.exe.licenses
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\bin\Debug\photo.exe
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\B1\photo\photo\photo\bin\Debug\photo.pdb
