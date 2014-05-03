@@ -1,0 +1,9 @@
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\bin\Debug\PhotoProcesser.exe.config
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.exe
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.pdb
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\bin\Debug\PhotoProcesser.exe
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\bin\Debug\PhotoProcesser.pdb
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.csprojResolveAssemblyReference.cache
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.Form1.resources
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.Properties.Resources.resources
+C:\Users\JYLI\Documents\Visual Studio 2013\Projects\Новая папка (2)\PhotoProcesser\obj\Debug\PhotoProcesser.csproj.GenerateResource.Cache
