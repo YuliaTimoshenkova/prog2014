@@ -1,0 +1,9 @@
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\bin\Debug\15.exe.config
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\bin\Debug\15.exe
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\bin\Debug\15.pdb
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\obj\Debug\_15.Form1.resources
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\obj\Debug\_15.Properties.Resources.resources
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\obj\Debug\15.csproj.GenerateResource.Cache
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\obj\Debug\15.exe
+c:\users\jyli\documents\visual studio 2013\Projects\15\15\obj\Debug\15.pdb
+C:\Users\JYLI\documents\visual studio 2013\Projects\15\15\obj\Debug\15.csprojResolveAssemblyReference.cache
