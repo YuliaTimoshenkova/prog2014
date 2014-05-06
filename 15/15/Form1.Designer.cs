@@ -100,9 +100,9 @@
             this.button4.BackColor = System.Drawing.Color.Khaki;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button4.Location = new System.Drawing.Point(102, 388);
+            this.button4.Location = new System.Drawing.Point(93, 388);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(106, 28);
+            this.button4.Size = new System.Drawing.Size(118, 28);
             this.button4.TabIndex = 4;
             this.button4.Text = "ПАУЗА";
             this.button4.UseVisualStyleBackColor = false;
@@ -113,9 +113,9 @@
             this.button5.BackColor = System.Drawing.Color.Crimson;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.button5.Location = new System.Drawing.Point(214, 388);
+            this.button5.Location = new System.Drawing.Point(217, 388);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(107, 28);
+            this.button5.Size = new System.Drawing.Size(104, 28);
             this.button5.TabIndex = 5;
             this.button5.Text = "СБРОС";
             this.button5.UseVisualStyleBackColor = false;

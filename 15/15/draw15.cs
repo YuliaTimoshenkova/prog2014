@@ -33,7 +33,7 @@ namespace _15
                 xy[0, 0] = (pos - 13) * 80; xy[0, 1] = 240;
             }
 
-            g.DrawRectangle(p, xy[0, 0] + 2, xy[0, 1] + 2, 76, 76);
+          
             g.DrawRectangle(p, xy[0, 0] + 7, xy[0, 1] + 7, 66, 66);
             g.FillRectangle(Brushes.PaleGoldenrod, xy[0, 0] + 7, xy[0, 1] + 7, 67, 67);
             string s = "" + n;
