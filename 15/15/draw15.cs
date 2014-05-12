@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing;
 
-
+///Для рисования
 namespace _15
 {
     class draw15
