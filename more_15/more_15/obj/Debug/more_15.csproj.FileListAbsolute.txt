@@ -1,0 +1,11 @@
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\bin\Debug\more_15.exe.config
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\bin\Debug\more_15.exe
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\bin\Debug\more_15.pdb
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.csprojResolveAssemblyReference.cache
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.game.resources
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.help.resources
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.level.resources
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.Properties.Resources.resources
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.csproj.GenerateResource.Cache
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.exe
+c:\users\jyli\documents\visual studio 2013\Projects\more_15\more_15\obj\Debug\more_15.pdb
